@@ -9,7 +9,7 @@
   "author": "Arshia",
   "license": "ISC",
   "dependencies": {
-    "@discordjs/opus": "^0.3.2",
+    "@discordjs/opus": "^0.8.0",
     "aws-sdk": "^2.668.0",
     "chokidar": "^3.4.0",
     "curl": "^0.1.4",
